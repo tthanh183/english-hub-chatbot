@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-API_KEY = "AIzaSyCuSNyE17PSsqg6va_U7twKIT7AeL8QshU"
+API_KEY = ""
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 
