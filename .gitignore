@@ -17,3 +17,4 @@ __pycache__/
 
 
 /fine_tune/final_model
+/fine_tune/flan-t5-finetuned-vocab
